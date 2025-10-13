@@ -8,4 +8,4 @@ Because "SAVE THE DATE" messages are evil without a 1-click-action to put it int
 
 Please tell me it exists and where I can find it.
 
-END
+https://github.com/niccokunzmann/open-web-calendar
